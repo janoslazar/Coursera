@@ -1,0 +1,2 @@
+- Collinear: Write a program to recognize line patterns in a given set of points. Use sorting by slope to efficiently determine collinearity in a set of points.
+http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
