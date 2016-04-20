@@ -1,0 +1,2 @@
+- 8Puzzle: Write a program to solve the 8-puzzle problem (and its natural generalizations) using the A* search algorithm. Used priority queue to find the most efficient solution to a given 8-puzzle problem. 
+http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
